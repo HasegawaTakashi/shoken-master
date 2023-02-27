@@ -1,0 +1,21 @@
+:source-hightlighter: coderay
+:toc:
+:author: HasegawaTakashi
+:lang: ja
+:doctype: book
+
+== 楽譜の構造に基づくルールを設計する
+
+- 1曲の長さは１分ほど
+- Bb major 音階
+- 記譜はin C
+- 拍子は４拍子
+- テンポは 60
+- 音符の長さは全音符から16分音符まで
+- タイは無し
+- スラーは小節内のみ
+- スタッカートあり
+- 臨時記号は無し
+- 強弱記号はpからfまで
+- ヘ音記号
+- 音域は第１線から上第５線まで
