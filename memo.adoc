@@ -1,0 +1,32 @@
+:source-hightlighter: coderay
+:toc:
+:author: HasegawaTakashi
+:lang: ja
+:doctype: book
+
+= 開発に関わるメモ
+
+== GitHub運用について
+
+=== Git Flow
+
+- Git Flowを使用する
+
+=== ブランチの命名規則
+
+- issue番号/issue名/作業内容
+- [ex]: 1/document/add-readme
+- 日本語不可
+
+=== issueについて
+
+- issueはtodoチェックリストを使用して進捗をわかるようにする
+- milestoneに含めること
+
+=== コミットコメントについて
+
+- [add] [edit] [fix] [docs] [bug] を先頭に記述する
+- 日本語可
+- 文末に対応するissue番号を記載
+
+- [ex]: docs: README.adocを追加
